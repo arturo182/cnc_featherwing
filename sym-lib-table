@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Driver_Motor_Extra)(type Legacy)(uri ${KIPRJMOD}/library/Driver_Motor_Extra.lib)(options "")(descr ""))
+  (lib (name MCU_Module_Extra)(type Legacy)(uri ${KIPRJMOD}/library/MCU_Module_Extra.lib)(options "")(descr ""))
+)
